@@ -6,12 +6,12 @@
     "Console",
     "Solution"
   ],
-  "identity": "AtCoder.Sln.Template",
-  "name": "AtCoder CSharp Solution",
-  "description": "A C# solution template for AtCoder contest",
-  "sourceName": "AtCoder.Template.CSharp",
+  "identity": "AtCoder.Contest.Template",
+  "name": "AtCoder Contest",
+  "description": "A C# solution template for an AtCoder contest",
+  "sourceName": "Contest",
   "preferNameDirectory": true,
-  "shortName": "atcodersln",
+  "shortName": "accontest",
   "defaultName": "AXC1",
   "tags": {
     "language": "C#",

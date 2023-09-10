@@ -5,13 +5,13 @@
     "AtCoder",
     "Console"
   ],
-  "identity": "AtCoder.Csproj.Template",
-  "name": "AtCoder CSharp Project",
-  "description": "A C# project template for AtCoder contest",
-  "sourceName": "AtCoder.Template.CSharp",
+  "identity": "AtCoder.Problem.Template",
+  "name": "AtCoder Problem",
+  "description": "A C# project template for an AtCoder problem",
+  "sourceName": "Problem",
   "preferNameDirectory": true,
-  "shortName": "atcoderproj",
-  "defaultName": "CsprojTemplate",
+  "shortName": "acproblem",
+  "defaultName": "Problem1",
   "tags": {
     "language": "C#",
     "type": "project"
