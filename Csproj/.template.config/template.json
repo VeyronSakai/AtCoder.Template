@@ -11,7 +11,7 @@
   "sourceName": "AtCoder.Template.CSharp",
   "preferNameDirectory": true,
   "shortName": "atcoderproj",
-  "defaultName": "AXC1",
+  "defaultName": "CsprojTemplate",
   "tags": {
     "language": "C#",
     "type": "project"
