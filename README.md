@@ -1,1 +1,1 @@
-# AtCoder.Template.CSharp
+# AtCoder.Template
