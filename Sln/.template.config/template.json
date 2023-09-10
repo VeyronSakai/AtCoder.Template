@@ -6,8 +6,8 @@
     "Console",
     "Solution"
   ],
-  "identity": "AtCoder.Template.CSharp",
-  "name": "AtCoder Contest CSharp Solution",
+  "identity": "AtCoder.Sln.Template",
+  "name": "AtCoder CSharp Solution",
   "description": "A C# solution template for AtCoder contest",
   "sourceName": "AtCoder.Template.CSharp",
   "preferNameDirectory": true,
