@@ -2,6 +2,7 @@
   "$schema": "http://json.schemastore.org/template",
   "author": "VeyronSakai",
   "classifications": [
+    "AtCoder",
     "Console",
     "Solution"
   ],
@@ -21,9 +22,9 @@
       "modifiers": [
         {
           "exclude": [
-            ".git/",
-            ".vs/",
-            ".idea/",
+            ".git/**",
+            ".vs/**",
+            ".idea/**",
             "README.md"
           ]
         }
