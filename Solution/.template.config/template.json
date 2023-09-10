@@ -11,24 +11,10 @@
   "description": "A C# solution template for AtCoder contest",
   "sourceName": "AtCoder.Template.CSharp",
   "preferNameDirectory": true,
-  "shortName": "atcoder",
+  "shortName": "atcodersln",
   "defaultName": "AXC1",
   "tags": {
     "language": "C#",
     "type": "solution"
-  },
-  "sources": [
-    {
-      "modifiers": [
-        {
-          "exclude": [
-            ".git/**",
-            ".vs/**",
-            ".idea/**",
-            "README.md"
-          ]
-        }
-      ]
-    }
-  ]
+  }
 }
