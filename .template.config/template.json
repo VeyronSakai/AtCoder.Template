@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "VeyronSakai",
+  "classifications": [
+    "Console",
+    "Solution"
+  ],
+  "identity": "AtCoder.Template.CSharp",
+  "name": "AtCoder Contest CSharp Solution",
+  "description": "A C# solution template for AtCoder contest",
+  "sourceName": "AtCoder.Template.CSharp",
+  "preferNameDirectory": true,
+  "shortName": "atcoder",
+  "defaultName": "AXC1",
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  },
+  "sources": [
+    {
+      "modifiers": [
+        {
+          "exclude": [
+            ".git/",
+            ".vs/",
+            ".idea/",
+            "README.md"
+          ]
+        }
+      ]
+    }
+  ]
+}
